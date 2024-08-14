@@ -1,0 +1,2 @@
+[master]
+ec2-instance ansible_host=43.202.202.44 ansible_user=ubuntu
