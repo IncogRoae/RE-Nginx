@@ -6,6 +6,7 @@
       - ca-certificates
       - lsb-release
       - ubuntu-keyring
+      - libpcre3
     state: present
     update_cache: yes
 
