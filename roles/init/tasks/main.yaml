@@ -6,7 +6,6 @@
       - ca-certificates
       - lsb-release
       - ubuntu-keyring
-      - build-essential
     state: present
     update_cache: yes
 
